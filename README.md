@@ -1,83 +1,126 @@
+<!-- ============================================================
+  CARA PAKAI
+  1. Buat repository PUBLIK dengan nama yang SAMA dengan username GitHub-mu
+  2. Centang "Add a README file"
+  3. Salin isi file ini ke README.md, lalu ganti semua USERNAME dan teks [ISI ...]
+============================================================ -->
 
+<!-- ========== HEADER ========== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=RYN404&fontSize=85&fontColor=ffffff&stroke=64748b&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=DESIGNING%20THE%20FUTURE%20THROUGH%20CODE&descSize=14&descAlignY=65&color=0:020617,50:111827,100:334155" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2F81F7,100:8957E5&text=Halo%2C%20Saya%20NAMA%20KAMU&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" alt="Header" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=INITIALIZING+DEVELOPER+PROFILE...;CREATIVE+MIND.+TECHNICAL+SOUL.;BUILDING+IDEAS+INTO+REALITY.;WELCOME+TO+MY+DIGITAL+SPACE." />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ryn404-hsky&style=for-the-badge&color=334155&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-## `01 / ABOUT ME`
-
-```yaml
-username: ryn404-hsky
-identity: Student & Developer
-mindset: Creative | Strategic | Curious
-focus:
-  - Web Development
-  - UI/UX Design
-  - Software Engineering
-currently: Building something meaningful.
-status: Always under development.
-```
-
-## `02 / TECH ARSENAL`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,git,github,figma,vscode&theme=dark" />
-
-</div>
-
-
-## `03 / GITHUB ANALYTICS`
-
-<div align="center">
-
-<a href="https://github.com/ryn404-hsky">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ryn404-hsky&show_icons=true&theme=transparent&hide_border=true&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1" />
-</a>
-
-<a href="https://github.com/ryn404-hsky?tab=repositories">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryn404-hsky&layout=compact&theme=transparent&hide_border=true&title_color=94a3b8&text_color=cbd5e1" />
+<!-- Teks mengetik animasi (warna biru netral, terbaca di mode terang & gelap) -->
+<a href="https://github.com/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=500&lines=Membangun+solusi+yang+bermanfaat;Suka+belajar+teknologi+baru;Terbuka+untuk+kolaborasi" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=ryn404-hsky&theme=transparent&hide_border=true&ring=94a3b8&fire=64748b&currStreakLabel=94a3b8&sideLabels=cbd5e1&dates=64748b" />
+<!-- Badge sosial: ganti link sesuai akunmu, hapus yang tidak perlu -->
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://usernamekamu.dev"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
-## `04 / CURRENT OBJECTIVES`
+<br/>
 
-- [x] Exploring the world of programming.
-- [x] Learning creative problem solving.
-- [ ] Mastering full-stack development.
-- [ ] Building impactful digital products.
-- [ ] Creating something worth remembering.
+## 👋 Tentang Saya
 
-## `05 / CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/ryn404-hsky">
-<img src="https://img.shields.io/badge/GITHUB-ryn404--hsky-1e293b?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>DESIGNED WITH CURIOSITY. POWERED BY COFFEE & CODE.</sub>
+- 🔭 Saat ini sedang mengerjakan **[ISI PROYEK UTAMA]**
+- 🌱 Sedang mempelajari **[ISI TEKNOLOGI YANG DIPELAJARI]**
+- 💬 Tanya saya tentang **[ISI KEAHLIAN]**
+- 🤝 Terbuka untuk kolaborasi di proyek **open source**
+- 📍 Berdomisili di **[ISI KOTA]**, Indonesia
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:111827,100:020617&height=120&section=footer" />
+## 🛠️ Tech Stack
+
+<!-- Ikon otomatis berganti sesuai tema GitHub pengunjung -->
+<!-- Daftar ikon: https://github.com/tandpfun/skill-icons#icons-list -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,php,laravel&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,php,laravel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,php,laravel" alt="Bahasa dan Framework" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,mysql,postgres,mongodb,redis,figma,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,mysql,postgres,mongodb,redis,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,mysql,postgres,mongodb,redis,figma,vscode" alt="Tools dan Database" />
+</picture>
+
+<br/><br/>
+
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<!-- Kartu statistik: tema gelap & terang dipilih otomatis -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=2F81F7&icon_color=8957E5&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=0969DA&icon_color=8250DF&count_private=true" />
+  <img height="170" alt="Statistik GitHub" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=2F81F7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=0969DA" />
+  <img height="170" alt="Bahasa Terbanyak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
+</picture>
+
+<br/><br/>
+
+<!-- Streak kontribusi -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=github-dark-blue&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=default&background=00000000" />
+  <img alt="Streak GitHub" src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true" />
+</picture>
+
+</div>
+
+<br/>
+
+## 📌 Proyek Unggulan
+
+<!-- Kartu repo: ganti REPO_1, REPO_2, dst dengan nama repositorimu -->
+<div align="center">
+
+<a href="https://github.com/USERNAME/REPO_1">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_1&theme=github_dark&bg_color=00000000&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_1&theme=default&bg_color=00000000&hide_border=false" />
+    <img alt="REPO_1" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_1" />
+  </picture>
+</a>
+<a href="https://github.com/USERNAME/REPO_2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=github_dark&bg_color=00000000&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2&theme=default&bg_color=00000000&hide_border=false" />
+    <img alt="REPO_2" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_2" />
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
+## 🤝 Mari Terhubung
+
+Tertarik berkolaborasi atau sekadar ngobrol soal teknologi? Silakan hubungi saya lewat tautan di atas.
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:8957E5,100:2F81F7" alt="Footer" />
+
+<sub>⭐ Terima kasih sudah mampir!</sub>
 
 </div>
